@@ -11,5 +11,4 @@ function isEvenlyDivisibleBy(year: number, by: number) {
     return year % by === 0;
 }
 
-
 export default isLeapYear
